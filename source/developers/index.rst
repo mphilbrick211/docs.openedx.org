@@ -69,3 +69,20 @@ Open edX Developers
          :expand:
 
          More References
+
+   .. grid-item-card:: Maintainer Resources
+      :class-card: sd-shadow-md sd-p-2
+      :class-footer: sd-border-0
+
+      * :doc:`references/tools_for_maintainers`
+      * :doc:`how-tos/maintain-a-repo`
+      * `Maintainership Program Pilot <https://openedx.atlassian.net/wiki/spaces/COMM/pages/3426844690/Maintainership+Pilot>`_
+      * `OEP-55 <https://open-edx-proposals.readthedocs.io/en/latest/processes/oep-0055-proc-project-maintainers.html>`_
+      +++
+      .. button-ref:: references/index
+         :color: primary
+         :outline:
+         :expand:
+
+         More Maintainer Resources
+
